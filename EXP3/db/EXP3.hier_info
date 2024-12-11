@@ -1,0 +1,15 @@
+|bcdCounter
+clk => outp[0]~reg0.CLK
+clk => outp[1]~reg0.CLK
+clk => outp[2]~reg0.CLK
+clk => outp[3]~reg0.CLK
+reset => outp[0]~reg0.ACLR
+reset => outp[1]~reg0.ACLR
+reset => outp[2]~reg0.ACLR
+reset => outp[3]~reg0.ACLR
+outp[0] <= outp[0]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+outp[1] <= outp[1]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+outp[2] <= outp[2]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+outp[3] <= outp[3]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
