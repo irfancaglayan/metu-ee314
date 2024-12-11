@@ -1,0 +1,72 @@
+$comment
+	File created using the following command:
+		vcd file EXP2.msim.vcd -direction
+$end
+$date
+	Thu May 02 21:36:37 2024
+$end
+$version
+	ModelSim Version 10.1d
+$end
+$timescale
+	1ps
+$end
+$scope module fouroneMUX_vlg_vec_tst $end
+$var reg 4 ! I [3:0] $end
+$var reg 2 " S [1:0] $end
+$var wire 1 # Y $end
+$var wire 1 $ sampler $end
+$scope module i1 $end
+$var wire 1 % gnd $end
+$var wire 1 & vcc $end
+$var wire 1 ' unknown $end
+$var tri1 1 ( devclrn $end
+$var tri1 1 ) devpor $end
+$var tri1 1 * devoe $end
+$var wire 1 + Y~output_o $end
+$var wire 1 , I[0]~input_o $end
+$var wire 1 - I[1]~input_o $end
+$var wire 1 . I[2]~input_o $end
+$var wire 1 / I[3]~input_o $end
+$var wire 1 0 S[0]~input_o $end
+$var wire 1 1 S[1]~input_o $end
+$var wire 1 2 inst4~0_combout $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b0 !
+b0 "
+0#
+x$
+0%
+1&
+x'
+1(
+1)
+1*
+0+
+0,
+0-
+0.
+0/
+00
+01
+02
+$end
+#10000
+b1 "
+10
+0$
+#20000
+b11 "
+b10 "
+00
+11
+1$
+#30000
+b11 "
+10
+0$
+#40000

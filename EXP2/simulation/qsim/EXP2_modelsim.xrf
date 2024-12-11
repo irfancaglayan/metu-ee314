@@ -1,0 +1,13 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/irfan/Desktop/EXP2/fouroneMUX.bdf
+source_file = 1, C:/Users/irfan/Desktop/EXP2/fouroneMUX.vwf
+source_file = 1, C:/Users/irfan/Desktop/EXP2/db/EXP2.cbx.xml
+design_name = fouroneMUX
+instance = comp, \Y~output , Y~output, fouroneMUX, 1
+instance = comp, \I[0]~input , I[0]~input, fouroneMUX, 1
+instance = comp, \I[1]~input , I[1]~input, fouroneMUX, 1
+instance = comp, \I[2]~input , I[2]~input, fouroneMUX, 1
+instance = comp, \I[3]~input , I[3]~input, fouroneMUX, 1
+instance = comp, \S[0]~input , S[0]~input, fouroneMUX, 1
+instance = comp, \S[1]~input , S[1]~input, fouroneMUX, 1
+instance = comp, \inst4~0 , inst4~0, fouroneMUX, 1

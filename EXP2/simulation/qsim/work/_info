@@ -1,0 +1,105 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\irfan\Desktop\EXP2\simulation\qsim
+v\4x1MUX 
+Z1 IN34ANjh^<`BOnRF^AkW?E1
+Z2 VeBOEdm`^JgVHP82b^A=]P3
+Z3 dC:\Users\irfan\Desktop\EXP2\simulation\qsim
+Z4 w1714674420
+Z5 8EXP2.vo
+Z6 FEXP2.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 n@1344x1@m@u@x@040
+Z10 !s100 249oQUY_5V<R<<U=JjA:S0
+Z11 !s108 1714674423.642000
+Z12 !s107 EXP2.vo|
+Z13 !s90 -work|work|EXP2.vo|
+!i10b 1
+!s85 0
+!s101 -O0
+vfouroneMUX
+Z14 !s100 ceUN7X6mPi2@Q22:ng:2Q3
+Z15 IAczhm[?A^e2[2e7LIU]aM1
+Z16 V:8k8gBM;@]SWWjPVGdJAX0
+R3
+Z17 w1714674995
+R5
+R6
+L0 31
+R7
+r1
+31
+R13
+R8
+Z18 nfourone@m@u@x
+!i10b 1
+!s85 0
+Z19 !s108 1714674996.626000
+R12
+!s101 -O0
+vfouroneMUX_vlg_check_tst
+!i10b 1
+Z20 !s100 8OL>3O`@ZFgNaZRWNKJOe2
+Z21 IK_Cgem>?hVLd2Y0D;eFBF1
+Z22 VT2I<mCR:o_cdMaF3Diem?2
+R3
+Z23 w1714674992
+Z24 8fouroneMUX.vwf.vt
+Z25 FfouroneMUX.vwf.vt
+L0 59
+R7
+r1
+!s85 0
+31
+Z26 !s108 1714674996.735000
+Z27 !s107 fouroneMUX.vwf.vt|
+Z28 !s90 -work|work|fouroneMUX.vwf.vt|
+!s101 -O0
+R8
+Z29 nfourone@m@u@x_vlg_check_tst
+vfouroneMUX_vlg_sample_tst
+!i10b 1
+Z30 !s100 5nZEhff57QLHSWmCfROLn2
+Z31 ISh>e9ZYjImHQ^FkAPJTHH2
+Z32 VDd6]VA@Vh0I]DD:5Ra`N21
+R3
+R23
+R24
+R25
+L0 29
+R7
+r1
+!s85 0
+31
+R26
+R27
+R28
+!s101 -O0
+R8
+Z33 nfourone@m@u@x_vlg_sample_tst
+vfouroneMUX_vlg_vec_tst
+!i10b 1
+!s100 o`QbFTHnSTGmdUKQSl@nK1
+I[i^5SDOB8zc1D@b?ENK<g2
+Z34 VB<`AAZ=P9VjYc?]dA5aze2
+R3
+R23
+R24
+R25
+Z35 L0 154
+R7
+r1
+!s85 0
+31
+R26
+R27
+R28
+!s101 -O0
+R8
+Z36 nfourone@m@u@x_vlg_vec_tst
