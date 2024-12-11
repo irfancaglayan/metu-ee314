@@ -1,2 +1,2 @@
-# metu-ee314
-This repository consists of the experimental work done in EE314 - Digital Electronics Laboratory course.
+# METU | EE314 | Digital Electronics Laboratory
+This repository consists of the preliminary work I have done for the course EE441 - Data Structures.
